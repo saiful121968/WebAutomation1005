@@ -19,7 +19,7 @@ public class GoogleFooterLink5 {
 
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com");
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		driver.close();
 	}
 
@@ -30,7 +30,7 @@ public class GoogleFooterLink5 {
 
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com");
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		driver.findElement(By.linkText("Privacy")).click();
 		Thread.sleep(2000);
 		driver.close();
