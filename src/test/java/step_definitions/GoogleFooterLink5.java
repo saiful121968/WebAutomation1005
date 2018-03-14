@@ -9,7 +9,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class GoogleFooterLinks {
+public class GoogleFooterLink5 {
 	
 	@Given("^I go to Google Home page$")
 	public void i_go_to_Google_Home_page() throws Throwable {
